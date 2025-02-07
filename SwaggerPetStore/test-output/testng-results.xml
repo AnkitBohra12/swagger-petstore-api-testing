@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-06T20:08:05 IST" name="Default suite" finished-at="2025-02-06T20:08:08 IST" duration-ms="2920">
+    <groups>
+    </groups>
+    <test started-at="2025-02-06T20:08:05 IST" name="Default test" finished-at="2025-02-06T20:08:08 IST" duration-ms="2920">
+      <class name="petstore.api.test.UserTests">
+        <test-method is-config="true" signature="setupData()[pri:0, instance:petstore.api.test.UserTests@17f7cd29]" started-at="2025-02-06T20:08:05 IST" name="setupData" finished-at="2025-02-06T20:08:06 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupData -->
+        <test-method signature="test_CreateUser()[pri:1, instance:petstore.api.test.UserTests@17f7cd29]" started-at="2025-02-06T20:08:06 IST" name="test_CreateUser" finished-at="2025-02-06T20:08:08 IST" duration-ms="2701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_CreateUser -->
+      </class> <!-- petstore.api.test.UserTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
